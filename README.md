@@ -16,4 +16,4 @@ Se utilizaron las tecnoogías _HTML y CSS_ vistas en los tres Sprints aplicando 
 
 **GitHub**
 
-- Comprobar que el código sea compatible entre navegadores y agregar los prefijos de proveedor necesarios.
+- https://santiagochong.github.io/web_project_3_esp/
