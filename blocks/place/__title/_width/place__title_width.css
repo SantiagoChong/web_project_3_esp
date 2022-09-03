@@ -1,0 +1,11 @@
+.place__title_width {
+  position: absolute;
+  max-width: 584px;
+}
+
+@media screen and (max-width: 979px) {
+  .place__title_width {
+    position: relative;
+    max-width: 340px;
+  }
+}

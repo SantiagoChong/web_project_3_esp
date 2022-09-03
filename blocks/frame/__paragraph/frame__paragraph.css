@@ -1,0 +1,15 @@
+.frame__paragraph {
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.22;
+  font-style: normal;
+  font-weight: 600;
+  margin: 0;
+}
+
+@media screen and (max-width: 631px) {
+  .frame__paragraph {
+    max-width: 245px;
+    font-size: 14px;
+  }
+}

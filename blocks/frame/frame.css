@@ -1,0 +1,23 @@
+.frame {
+  background-color: #0278fe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 355px;
+  height: 48px;
+  text-decoration: none;
+  border-radius: 4px;
+  grid-area: button;
+  transition: background-color 0.2s ease;
+}
+
+.frame:hover {
+  background-color: #0063d2;
+}
+
+@media screen and (max-width: 631px) {
+  .frame {
+    max-width: 288px;
+    justify-self: center;
+  }
+}

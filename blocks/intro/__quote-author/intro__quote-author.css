@@ -1,0 +1,12 @@
+.intro__quote-author {
+  /*position: absolute;
+  top: 128px;
+  right: 297px;*/
+  color: #fff;
+  max-width: 720px;
+  font-size: 24px;
+  line-height: 1.41;
+  font-weight: 400;
+  margin: 0;
+  text-align: right;
+}
